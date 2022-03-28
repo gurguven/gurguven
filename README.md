@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @gurguven
 - 👀 I’m interested in Web Development, Blockchain Development & Sound Design 
-- 🌱 I’m currently learning , HTML, CSS & JS 
+- I use HTML, CSS (sass) & JS 
+- 🌱 I’m currently learning React, React Native & Solidity
 - 💞️ I’m looking to collaborate on many projects, web sites, applications...
 - 📫 How to reach me : gurguvengur@gmail.com
 
