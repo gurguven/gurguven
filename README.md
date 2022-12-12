@@ -9,7 +9,7 @@
 
 📫 Reach me on my [linkedin](https://www.linkedin.com/in/guven-gur/) or on my e-mail contact@guvengur.com
 
-🌐 Check my [website](guvengur.com) or the website of my [agency](kbs-agency.com) ! 
+🌐 Check my personnal [portfolio](guvengur.com) or the website of my [agency](kbs-agency.com) ! 
 
 ## 🛠️ Languages and Tools :
 
