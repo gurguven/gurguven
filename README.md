@@ -11,7 +11,6 @@
 
 🌐 Check my [website](guvengur.com) or the website of my [agency](kbs-agency.com) ! 
 
----
 ## 🛠️ Languages and Tools :
 
 - HTML 
