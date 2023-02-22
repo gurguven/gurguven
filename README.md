@@ -3,7 +3,7 @@
 
 🖥 I am a Blockchain Creative Developper from France
 
-🔭 I’m working as a Front-End Freelance, but I also work as a Blockchain Developper
+🔭 I’m working as a Front-End Freelance, but I also work as a Blockchain Developer
 
 ⚡ In my free time, I learn new techs and build projects.
 
@@ -22,6 +22,9 @@
 - React.js
 - Next.js 
 - Astro.js
+- Node.js
+- Express
+- MongoDB
 - Solidity
 - Web3.js
 - Ethers.js
